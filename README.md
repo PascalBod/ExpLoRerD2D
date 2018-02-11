@@ -142,6 +142,10 @@ The user interface looks like this:
 
 ![GUI](doc/ui.png)
 
+The top scrolling area displays commands sent to / received from the RN2483 LoRa module.
+
+The bottom scrolling area displays informational messages.
+
 ### Using a jar file
 
 To generate a jar file containing the application, use **Export... / Java / Runnable JAR file**.
