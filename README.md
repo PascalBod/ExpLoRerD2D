@@ -138,6 +138,10 @@ Once the application is started, select the serial port device connected to the 
 
 Click on the buttons to set color of remote device LED.
 
+The user interface looks like this:
+
+![GUI](doc/ui.png)
+
 ### Using a jar file
 
 To generate a jar file containing the application, use **Export... / Java / Runnable JAR file**.
