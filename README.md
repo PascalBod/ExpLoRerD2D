@@ -1,6 +1,6 @@
 # ExpLoRerD2D
 
-Very simple end-to-end application demonstrating LoRa device-to-device communication.
+Very simple end-to-end IoT application. It is used as a demonstrator in [the talk](https://www.slideshare.net/PascalBodin/iot-and-connected-devices-an-overview) I give to postgraduate students of a French Telecom and Electronics Master.
 
 # Functional specifications
 
